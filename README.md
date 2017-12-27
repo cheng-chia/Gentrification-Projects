@@ -1,6 +1,6 @@
 # Gentrification Project
 
-The goal of this project is to develop methods for exploring gentrification process at a finer space time scale. Conventional census-based methods and new data mining approach including text processing, text clustering, and image recognition are used for this project. These methods were applied to salt lake city, and the results can be found on my personal website: https://cheng-chia.github.io/
+The goal of this project is to develop methods for exploring gentrification process at a finer space time scale. Conventional census-based methods and new data mining approach including text processing, text clustering, and image recognition are used for this project. These methods were applied to Salt Lake City in Utah, and the results can be found on my personal website: https://cheng-chia.github.io/
 
 A part of this project becomes my thesis defended on July 11, 2017:
 "Developing a Data Mining Framework to Identify a Sense of Gentrification through Social Media Data: A Case Study Using Instagram Posts in Salt Lake City, Utah"
