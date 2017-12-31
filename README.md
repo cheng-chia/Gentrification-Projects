@@ -6,7 +6,7 @@ A part of this project becomes my thesis defended on July 11, 2017:
 *"Developing a Data Mining Framework to Identify a Sense of Gentrification through Social Media Data: A Case Study Using Instagram Posts in Salt Lake City, Utah"*
 
 
-This repository are divided into four folders: 
+This repository are divided into five folders: 
 * explore IG posings pattern: this folder contains a code for exploring the temporal and space time pattern of IG posting. It provides an overview of the Instagram dataset.
 * thesis summary: this folder contains the thesis abstract and the slides 
 * typology: this folder contains codes which are able to replicate five existing census-based gentrification typologies as long as the database is established.
