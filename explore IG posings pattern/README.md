@@ -1,1 +1,3 @@
-### This code is used to query and aggregate Instagram data from the Mongo database, apply geoprocessing, and create space time cube. By doing this, we have a general understanding of the Instagram posts before conducting other data mining methods.
+## Exploring Instagram Posting Pattern
+
+#### This code is used to query and aggregate Instagram data from the Mongo database, apply geoprocessing, and create space time cube. By doing this, we have a general understanding of the Instagram posts before conducting other data mining methods.
