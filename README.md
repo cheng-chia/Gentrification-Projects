@@ -7,6 +7,7 @@ A part of this project becomes my thesis defended on July 11, 2017:
 
 
 This repository are divided into four folders: 
+*/ explore IG posings pattern: this folder contains a code for exploring the temporal and space time pattern of IG posting. It provides an overview of the Instagram dataset.
 * /thesis summary: this folder contains the thesis abstract and the slides 
 * /typology: this folder contains codes which are able to replicate five existing census-based gentrification typologies as long as the database is established.
 * /text clustering: this folder contains codes for applying text clustering to Instagram text.
